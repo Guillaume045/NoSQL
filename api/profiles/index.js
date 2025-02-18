@@ -1,0 +1,1 @@
+const ProfileController = require('./controller');
